@@ -10,8 +10,8 @@
  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;- Eureka Discovery Service<br />
 
 ## --> [Implémentation code source](https://github.com/FatimaZahraHASBI/micro-services/tree/master/micro-services-devoir1/app)
-## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [customer-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/micro-services-devoir1/app/customer_service)
-## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [billing-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/micro-services-devoir1/app/billing_service)
-## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [discovery-service-eureka](https://github.com/FatimaZahraHASBI/micro-services/tree/master/micro-services-devoir1/app/eureka_discovery)
-## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [gateway-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/micro-services-devoir1/app/gateway)
-## --> [Compte rendu - 26 pages](https://github.com/FatimaZahraHASBI/micro-services/blob/master/micro-services-devoir1/Fatima%20Zahra%20HASBI.pdf)
+## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [customer-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/app/customer_service)
+## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [billing-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/app/billing_service)
+## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [discovery-service-eureka](https://github.com/FatimaZahraHASBI/micro-services/tree/master/app/eureka_discovery)
+## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; [gateway-service](https://github.com/FatimaZahraHASBI/micro-services/tree/master/app/gateway)
+## --> [Compte rendu - 26 pages](https://github.com/FatimaZahraHASBI/micro-services/blob/master/Fatima%20Zahra%20HASBI.pdf)
